@@ -21,7 +21,7 @@ body {
   font-size: 14px;
 }
 
-a { color: #3CC; }
+a { color: #fff; }
 
 a:hover { color: #FF0; }
 
@@ -146,14 +146,13 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  /*background-image: url(../img/IT.Jpg);*/
-  background-color: #E1C4C4;
-}
+  background-image: url(../img/PC.Jpg);
+  }
 
 .baner-content h1 {
   margin-top: 0px;
   font-size: 45px;
-  color: #fff;
+  color: #ff7d27;
   font-weight: 900;
   text-transform: uppercase;
   margin-bottom: 0px;
@@ -183,10 +182,9 @@ a:hover { color: #FF0; }
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(../img/landscape.jpg);
+  background-image: url(../img/IT2.jpg);
   background-attachment: fixed;
   min-height: 100vh;
-  background-size: cover;
   background-position: center center;
 }
 
@@ -248,7 +246,7 @@ h4, .h4 {
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(../img/3rd-section.jpg);
+  background-image: url(../img/video.jpg);
 }
 
 .projects-content .item img {
@@ -302,7 +300,7 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  background-image: url(../img/Phone.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -371,7 +369,7 @@ section {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 16vh;
-  background-image: url(../img/5th-section.jpg);
+  background-image: url(../img/Phone.jpg);
 }
 
 .contact-form {
@@ -436,8 +434,7 @@ section {
 
 footer {
   text-align: center;
-  background-color: #282b2f;
-  padding: 40px 0px;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 footer .primary-button {
