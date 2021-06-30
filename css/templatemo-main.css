@@ -146,8 +146,8 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img/IT.Jpg);
-  /*background: #FFDAC8;*/
+  /*background-image: url(../img/IT.Jpg);*/
+  background: #FFDAC8;
   }
 
 .baner-content h1 {
@@ -247,8 +247,8 @@ h4, .h4 {
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(../img/Video1.Jpg);
-  /*background: #E2C2DE;*/
+  /*background-image: url(../img/Video1.Jpg);*/
+  background: #E2C2DE;
 }
 
 .projects-content .item img {
