@@ -146,7 +146,7 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img/PC.Jpg);
+  background-image: url(../img/IT.Jpg);
   }
 
 .baner-content h1 {
@@ -182,7 +182,7 @@ a:hover { color: #FF0; }
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(../img/IT2.jpg);
+  background-image: url(../img/PC.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-position: center center;
@@ -246,7 +246,7 @@ h4, .h4 {
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(../img/video.jpg);
+  background-image: url(../img/video1.jpg);
 }
 
 .projects-content .item img {
